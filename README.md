@@ -19,7 +19,8 @@ I'm a passionate and ambitious computer engineering student with a love for soft
 - Tools: VSCode, xCode, Git, GitHub, Docker, ModelSim, LTSpice
 
 ## 📚 My Grade Sheet
-Check out my academic grade sheet [here](URL).
+Check out my academic grade sheet [here](https://shorturl.at/ckzAN).
+Check out my current academic courses [here](https://shorturl.at/fjyLV).
 
 
 ## 📈 GitHub Stats
