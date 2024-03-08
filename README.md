@@ -18,6 +18,10 @@ I'm a passionate and ambitious computer engineering student with a love for soft
 - Databases: In Progress...
 - Tools: VSCode, xCode, Git, GitHub, Docker, ModelSim, LTSpice
 
+## 📚 My Grade Sheet
+Check out my academic grade sheet [here](URL).
+
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-asadi&show_icons=true&theme=radical)
