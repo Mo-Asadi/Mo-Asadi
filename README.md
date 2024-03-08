@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mo Asadi.
+# Hi there! 👋 I'm Mohammad Asadi.
 
 I'm a passionate and ambitious computer engineering student with a love for software development. Welcome to my GitHub profile! 🚀
 
@@ -11,11 +11,12 @@ I'm a passionate and ambitious computer engineering student with a love for soft
 
 ## 🛠️ Tech Stack
 
-- Programming Languages: Python, C++, C, Assembly Language
-- Web Technologies: Basic HTML
-- Frameworks: Hopfully Down The Road
-- Databases: Hopfully Down The Road
-- Tools: VSCode, xCode, Git, GitHub, Docker
+- Programming Languages: Python, C++, C, Assembly Language, SystemVerilog
+- Knowledge in Data Structures and Algorithms
+- Web Technologies: Basic HTML, Basic CSS
+- Frameworks: In Progress...
+- Databases: In Progress...
+- Tools: VSCode, xCode, Git, GitHub, Docker, ModelSim, LTSpice
 
 ## 📈 GitHub Stats
 
